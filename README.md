@@ -30,7 +30,7 @@ This project focuses on building an interactive Power BI dashboard to analyze re
 
 The dataset contains retail sales data including product details, customer information, sales values, and regional data. Data was cleaned and transformed before analysis.
 
-(Dataset used for training and analytical practice.)
+
 
 ## 🔍 Work Performed
 
